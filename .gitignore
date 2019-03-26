@@ -1,1 +1,5 @@
+# Files
+**/Data/*
 .DS_Store
+.Rhistory
+*checkpoint*.ipynb
